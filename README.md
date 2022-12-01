@@ -19,12 +19,14 @@ Do you have what it takes to outsmart, outmaneuver, and outwit your competition 
 The new Entanglion: Space Pirates gameboard builds on top of the existing Entanglion game board, but adds a few new features:
 
 - New ships! The Yearling and the Grenada are competitors to the Rubicon and Mercurial. The game board adds a new engine control section for this new fleet.
+- Competition! Two players compete against each other for quantum supremacy 
 - Pirates! Pirates can help you on your journey, for a price.
 - New instructions on turn order and actions
 - New Quantum Depot structure for forging quantum components
+- Updated Quantum events
 
 ### Spaceship boards (2)
-The spaceship boards are used to manage your fleet of ships: Rubicon/Mercurial and Yearling/Grenada. They contain slots for cargo and quantum compnents, and a quantum power tracking meter. These boards are used in place of the stock spaceship boards from Entanglion.
+The spaceship boards are used to manage your fleet of ships: Rubicon/Mercurial and Yearling/Grenada. They contain slots for cargo and quantum components, and a quantum power tracking meter. These boards are used in place of the stock spaceship boards from Entanglion.
 
 ### Planet tokens (8)
 Planets in Entanglion may have resource mines, pirate outposts, or nothing at all! There are three kinds of resources that can be mined -- Copper, Helium-3 (He3), and Niodium (Nb) -- and are they used to purchase quantum components.
@@ -81,6 +83,8 @@ Quantum event cards are drawn when a quantum event is triggered by playing 6 eng
 | Alchemist | Convert up to two of your resources of one type to another resource type. The resources must be of the same type. |
 | Tractor Beam | Gain two extra cargo slots. Play next to your spaceship card. |
 
+Quantum events in the base Entanglion game are not used in the Space Pirate expansion unless they are listed in the table above.
+
 > 🏠 House rule: for a more lively game, quantum event cards may also be drawn when exiting Entanglion, as in the base rule set.
 
 ### First player token (1)
@@ -105,7 +109,7 @@ Preparation of Entanglion: Space Pirates is as follows.
 A round consists of four phases: navigate, resolve, action, and cleanup.
 
 ### Navigate phase
-Beginning with the first player, players alternate taking turns placing engine cards in their own engine control section on the board. Each turn, a player may play a card face down or pass their turn. Players can place up to six engine cards. Players immediately draw a replacement card after placing a card. Once a player passes their turn, they may not place any additional engine cards during this round.
+Beginning with the first player, players alternate taking turns placing engine cards in their own engine control section on the board. Each turn, a player may play a card face down or pass their turn. Players can place up to six engine cards. Players immediately draw a replacement card after placing a card. Once an engine card is placed facedown, players cannot look at the facedown engine card until it is flipped face up in the Resolve phase. Once a player passes their turn, they may not place any additional engine cards during this round.
 
 > 🔀 Remember to shuffle the engine card discard pile when the engine card stack is empty!
 
@@ -117,6 +121,8 @@ If a player places six engine cards in their engine control, they have triggered
 
 ### Resolve phase
 After both players have passed during the navigate phase, players begin resolving their navigation actions. Beginning with the first player, players alternatively reveal the next hidden engine card and perform the appropriate navigation action with their spaceships.
+
+If a player's navigation action cannot be legally resolved, that player's ship does not move. That player must discard their remaining engine cards in their navigation control. That player's turn ends.
 
 During the resolve phase, one or both of a player's spaceships may occupy the same planet as the spaceships of their opponent. This event is called a spaceship encounter. Resolve the spaceship encounter as described in the next section.
 
@@ -172,6 +178,9 @@ A maximum of four pirates may be recruited to your fleet.
 
 > ☠️ While you may jettison cargo, pirates cannot be flushed out of airlocks.
 
+### Detection Rate
+The Detection Rate mechanic is not utilized in the Space Pirates expansion. Ships may freely enter and exit Entanglion without fear of Orbital defenses.
+
 ## Game End
 The game ends immediately when any of the following conditions occur.
 
@@ -184,6 +193,7 @@ When the game ends, the player whose fleet has the higher quantum power is the w
 
 # Contributors
 Entanglion: Space Pirates was designed by Justin D Weisz, Maryam Ashoori, Kent Fung, Patrick Watson, Prabhat M Reddy, and Rachel Ostrand.
+Additional playtesting and publishing by Jack Schaefer and Chris Eisbach
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
