@@ -69,7 +69,7 @@ Quantum event cards are drawn when a quantum event is triggered by playing 6 eng
 | --- | --- |
 | Wormhole | Teleport to a random planet in Centarious. Roll the Centarious die and move your ships to the indicated planet. |
 | Quantum Noise | Teleport to a random planet in Entanglion. Roll the Entanglion die, and proceeding in clockwise order from OMEGA ZERO, count the indicated number of planets. Move your ships to the selected planet. |
-| Quantum Interference | Change one engine card to another of your choosing. Play immediately after the engine card is revealed. Cannot be played on a PROBE. |
+| Quantum Interference | Change one engine card to another of your choosing. (The chosen engine card does not have to be in your hand) Play immediately after the engine card is revealed. Cannot be played on a PROBE. |
 | Prosperity | Receive +2 resources from the current planet _or_ Hire one pirate at the current outpost for 1 resource. |
 | Defection! | Steal one of your opponent's pirates (your choice). Your fleet must have space to accommodate the new pirate. |
 | ~~Color Blindness~~ | ~~On this turn, your opponent can only navigate with one color spaceship (your choice). Play at the beginning of the first player’s Navigate phase.~~ |
@@ -107,7 +107,7 @@ Preparation of Entanglion: Space Pirates is as follows.
 4. **Engine cards**. Distribute the colored PROBE cards to each player and place the remaining (black) PROBE card with the rest of the engine cards. Shuffle and place the engine cards face down on the engine card stack. Deal three engine cards to each player.
 5. **Pirate cards**. Shuffle the pirate cards and place them face down in the two pirate outposts.
 6. **Quantum event cards**. Shuffle the quantum event cards and place them face down on the quantum event stack.
-7. **Determine first player**. Determine the first player by rolling the Entanglion die. The player with the highest roll goes first and takes possession of the first player token. Re-roll in case of a tie.
+7. **Determine first player**. ~~Determine the first player by rolling the Entanglion die. The player with the highest roll goes first and takes possession of the first player token. Re-roll in case of a tie~~. This decision might seem arbitrary, so perhaps it is best to designate that red/blue starts in a given permanent location (Centarious 1), while green/blue starts in (Centarious 2)
 8. **Spaceship placement**. The first player may choose which planet their fleet begins on in Centarious. The other player's fleet begins on the other planet in Centarious. Both spaceships in a fleet begin on the same planet.
 9. **Draw initial Quantum Event**. Each player draws a Quantum Event.
 
@@ -138,7 +138,7 @@ If a player reveals a PROBE card, they may immediately make an action as describ
 Immediately after a player resolves their last navigation action, they proceed to the action phrase. Players may perform any of the following actions, depending on the planet(s) at which their fleet is located:
 
 - **Discover planet**. Undiscovered planets in the Entanglion system are those with their planet tokens face down. Flip the planet token to discover what lies on the planet.
-    - ☠️ Pirate outpost: Recruit one pirate of your choice from the outpost into your fleet.
+    - ☠️ Pirate outpost: Flip all pirates at the designated outpost face up. Recruit one pirate of your choice from the outpost into your fleet.
     - ⛏️ Mine: Receive two of the discovered resource.
 - **Mine**. At a planet with resources, mine those resources by moving some or all of any resource tokens present on the planet to the cargo holds of your fleet. 
 - **Hire pirate**. At a pirate outpost, hire a pirate at a cost of any three resources.
@@ -152,6 +152,7 @@ After both players have concluded their action phase, prepare for the next round
 1. Add one resource token to each discovered planet containing a resource, up to a maximum of three resources.
 2. Discard all engine cards in engine control.
 3. Retrieve any played PROBE cards.
+4. Players may discard any number of engine tiles from their hand. Redraw engine tiles equal to the number of engine tiles discarded.
 
 ## Spaceship Encounters
 Centarious and Superious are lawful, peaceful galaxies. Spaceships from opposing fleets may encounter each other in these galaxies with no effect.
@@ -173,6 +174,8 @@ Quantum event cards may be played at any point in the game. Resolve the quantum 
 
 ### Engine cards
 There is a limit of 3 engine cards in your hand.
+
+> At the beginning of the first round of the game, any player may discard and redraw all engine cards in their hand.
 
 > 🃏 Engine cards should be kept private from your opponent.
 
@@ -196,6 +199,12 @@ The game ends immediately when any of the following conditions occur.
 - The quantum event stack is depleated
 
 When the game ends, the player whose fleet has the higher quantum power is the winner. In case players' fleets have the same quantum power, the game ends in a draw.
+
+Development Notes:
+CNOT rules clarification - related to Centarious
+Reminder text for SWAP when outside of Entanglion
+Potential Name changes to the Turn actions?
+Should the bespoke probes for each player be modified in size?  This way, they are less likely to be shuffled in with the other engine tiles.
 
 # Contributors
 Entanglion: Space Pirates was designed by Justin D Weisz, Maryam Ashoori, Kent Fung, Patrick Watson, Prabhat M Reddy, and Rachel Ostrand.
