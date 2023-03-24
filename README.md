@@ -72,7 +72,7 @@ Quantum event cards are drawn when a quantum event is triggered by playing 6 eng
 | Quantum Interference | Change one engine card to another of your choosing. Play immediately after the engine card is revealed. Cannot be played on a PROBE. |
 | Prosperity | Receive +2 resources from the current planet _or_ Hire one pirate at the current outpost for 1 resource. |
 | Defection! | Steal one of your opponent's pirates (your choice). Your fleet must have space to accommodate the new pirate. |
-| Color Blindness | On this turn, your opponent can only navigate with one color spaceship (your choice). Play at the beginning of the first player’s Navigate phase. |
+| ~~Color Blindness~~ | ~~On this turn, your opponent can only navigate with one color spaceship (your choice). Play at the beginning of the first player’s Navigate phase.~~ |
 | The Mechanic | Draw 3 engine cards and immediately use up to two (outside of engine control). Discard the engine cards when finished. Play at the beginning of your Navigate phase. |
 | Quantum Teleporter | Steal one quantum event card from your opponent at random. |
 | Hard Bargain | Buy a quantum component at one fewer resource of your choice. |
@@ -82,6 +82,11 @@ Quantum event cards are drawn when a quantum event is triggered by playing 6 eng
 | Shuttlecraft | Move one pirate from one pirate base to another. The destination base must have space to accommodate the pirate. |
 | Alchemist | Convert up to two of your resources of one type to another resource type. The resources must be of the same type. |
 | Tractor Beam | Gain two extra cargo slots. Play next to your spaceship card. |
+| **Below are some newly developed quantum events** |  |
+| Homing Warp | Teleport to a planet occupied by an opponent's ship. If the planet is in Entanglion, an encounter occurs. |
+| Abundance | You gain one resource of your choice. |
+| Disruptive Sabotage | Play in response to your opponent playing a Quantum Event. Negate the effect of opponent's Quantum event |
+| Rival Transmogrification | Swap places of your ships with your opponent's ships. |
 
 Quantum events in the base Entanglion game are not used in the Space Pirate expansion unless they are listed in the table above.
 
@@ -104,6 +109,7 @@ Preparation of Entanglion: Space Pirates is as follows.
 6. **Quantum event cards**. Shuffle the quantum event cards and place them face down on the quantum event stack.
 7. **Determine first player**. Determine the first player by rolling the Entanglion die. The player with the highest roll goes first and takes possession of the first player token. Re-roll in case of a tie.
 8. **Spaceship placement**. The first player may choose which planet their fleet begins on in Centarious. The other player's fleet begins on the other planet in Centarious. Both spaceships in a fleet begin on the same planet.
+9. **Draw initial Quantum Event**. Each player draws a Quantum Event.
 
 ## Round Overview
 A round consists of four phases: navigate, resolve, action, and cleanup.
