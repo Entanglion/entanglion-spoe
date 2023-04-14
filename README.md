@@ -86,7 +86,7 @@ Quantum event cards are drawn when a quantum event is triggered by playing 6 eng
 | Homing Warp | Teleport to a planet occupied by an opponent's ship. If the planet is in Entanglion, an encounter occurs. |
 | Abundance | You gain one resource of your choice. |
 | Disruptive Sabotage | Play in response to your opponent playing a Quantum Event. Negate the effect of opponent's Quantum event |
-| Rival Transmogrification | Swap places of your ships with your opponent's ships. |
+| Rival Transmogrification | Swap places of your ships with your opponent's ships. (Needs some balancing / timing restriction) |
 
 Quantum events in the base Entanglion game are not used in the Space Pirate expansion unless they are listed in the table above.
 
@@ -107,7 +107,7 @@ Preparation of Entanglion: Space Pirates is as follows.
 4. **Engine cards**. Distribute the colored PROBE cards to each player and place the remaining (black) PROBE card with the rest of the engine cards. Shuffle and place the engine cards face down on the engine card stack. Deal three engine cards to each player.
 5. **Pirate cards**. Shuffle the pirate cards and place them face down in the two pirate outposts.
 6. **Quantum event cards**. Shuffle the quantum event cards and place them face down on the quantum event stack.
-7. **Determine first player**. ~~Determine the first player by rolling the Entanglion die. The player with the highest roll goes first and takes possession of the first player token. Re-roll in case of a tie~~. This decision might seem arbitrary, so perhaps it is best to designate that red/blue starts in a given permanent location (Centarious 1), while green/blue starts in (Centarious 2)
+7. **Determine first player**. Determine the first player by rolling the Entanglion die. The player with the highest roll goes first and takes possession of the first player token. Re-roll in case of a tie 
 8. **Spaceship placement**. The first player may choose which planet their fleet begins on in Centarious. The other player's fleet begins on the other planet in Centarious. Both spaceships in a fleet begin on the same planet.
 9. **Draw initial Quantum Event**. Each player draws a Quantum Event.
 
@@ -152,7 +152,7 @@ After both players have concluded their action phase, prepare for the next round
 1. Add one resource token to each discovered planet containing a resource, up to a maximum of three resources.
 2. Discard all engine cards in engine control.
 3. Retrieve any played PROBE cards.
-4. Players may discard any number of engine tiles from their hand. Redraw engine tiles equal to the number of engine tiles discarded.
+4. Players may discard any number of engine tiles from their hand. Redraw engine tiles equal to the number of engine tiles discarded. Each player should have engine tiles equal to their hand size limit (default hand size is 3).
 
 ## Spaceship Encounters
 Centarious and Superious are lawful, peaceful galaxies. Spaceships from opposing fleets may encounter each other in these galaxies with no effect.
@@ -201,14 +201,13 @@ The game ends immediately when any of the following conditions occur.
 When the game ends, the player whose fleet has the higher quantum power is the winner. In case players' fleets have the same quantum power, the game ends in a draw.
 
 Development Notes:
-CNOT rules clarification - related to Centarious
-Reminder text for SWAP when outside of Entanglion
-Potential Name changes to the Turn actions?
-Should the bespoke probes for each player be modified in size?  This way, they are less likely to be shuffled in with the other engine tiles.
+*CNOT rules clarification - related to Centarious
+*Reminder text for SWAP when outside of Entanglion
+*Potential Name changes to the Turn actions?
 
 # Contributors
 Entanglion: Space Pirates was designed by Justin D Weisz, Maryam Ashoori, Kent Fung, Patrick Watson, Prabhat M Reddy, and Rachel Ostrand.
-Additional playtesting and publishing by Jack Schaefer and Chris Eisbach
+Additional playtesting, development, and publishing by Jack Schaefer and Chris Eisbach
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
