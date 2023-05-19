@@ -53,12 +53,17 @@ Pirates are obtained from pirate outposts and provide effects during the course 
 
 | Pirate | Effect |
 | --- | --- |
-| Uppity the Mercinary | +4 QP |
+| Uppity the Mercinary | +1 QP, You may re-roll the Entanglion die one additional time during an encounter |
 | Strangiatto the Scientist | +1 QP, Quantum components may be purchased with one fewer resource (your choice) |
 | Charming the Engineer | +1 QP, You may re-roll the Entanglion die one additional time during an encounter |
 | Tiptop the Thief | +2 QP, Steal 1 additional resource of your choice when you win an encounter |
-| Squarebottom the Sapper | +1 QP, Return 1 quantum component of your choice from your opponent's ship to the Quantum Depot when you win an encounter |
+| ~~Squarebottom the Sapper | +1 QP, Return 1 quantum component of your choice from your opponent's ship to the Quantum Depot when you win an encounter~~ |
 | Downdown the Miner | +2 QP, Receive one extra resource from the current planet whenever discovering or mining |
+| **Below are some newly developed space pirates** | | |
+| Nova the Navigator | +1 QP, Draw an engine card. Your max engine card hand size is increased by one |
+| Maria the Merchant | +2 QP, Gain two extra cargo slots. |
+| Umbra the Unstable | +1 QP, At the beginning of your turn, Draw a Quantum Event. Then, discard a Quantum event of your choice. |
+
 
 > 💣 Quantum components removed by Squarebottom the Sapper are placed back in the Quantum Depot and can be re-purchased.
 
@@ -207,6 +212,7 @@ Development Notes:
 
 # Contributors
 Entanglion: Space Pirates was designed by Justin D Weisz, Maryam Ashoori, Kent Fung, Patrick Watson, Prabhat M Reddy, and Rachel Ostrand.
+
 Additional playtesting, development, and publishing by Jack Schaefer and Chris Eisbach
 
 # License
