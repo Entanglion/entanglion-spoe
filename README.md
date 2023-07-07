@@ -62,8 +62,8 @@ Pirates are obtained from pirate outposts and provide effects during the course 
 | **Below are some newly developed space pirates** | | |
 | Nova the Navigator | +1 QP, Draw an engine card. Your max engine card hand size is increased by one |
 | Maria the Merchant | +2 QP, Gain two extra cargo slots. |
-| Umbra the Unstable | +1 QP, At the beginning of your turn, Draw a Quantum Event. Then, discard a Quantum event of your choice. |
-| Umbra the Unstable v2 | +1 QP, At the beginning of an encounter, shuffle both players Quantum Events together. Play one Quantum Event of your choice. Redistribute the QEs back to each player. |
+| Umbra the Unstable v1 | +1 QP, At the beginning of the round, draw a Quantum Event. Then, discard a Quantum Event of your choice. |
+| Umbra the Unstable v2 | +1 QP, At the beginning of an encounter, shuffle both players' Quantum Events together. Play one Quantum Event of your choice. Redistribute the QEs back to each player. |
 
 
 > 💣 Quantum components removed by Squarebottom the Sapper are placed back in the Quantum Depot and can be re-purchased.
