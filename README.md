@@ -57,12 +57,13 @@ Pirates are obtained from pirate outposts and provide effects during the course 
 | Strangiatto the Scientist | +1 QP, Quantum components may be purchased with one fewer resource (your choice) |
 | Charming the Engineer | +1 QP, You may re-roll the Entanglion die one additional time during an encounter |
 | Tiptop the Thief | +2 QP, Steal 1 additional resource of your choice when you win an encounter |
-| ~~Squarebottom the Sapper | +1 QP, Return 1 quantum component of your choice from your opponent's ship to the Quantum Depot when you win an encounter~~ |
+| ~~Squarebottom the Sapper~~ | +1 QP, Return 1 quantum component of your choice from your opponent's ship to the Quantum Depot when you win an encounter~~ |
 | Downdown the Miner | +2 QP, Receive one extra resource from the current planet whenever discovering or mining |
 | **Below are some newly developed space pirates** | | |
 | Nova the Navigator | +1 QP, Draw an engine card. Your max engine card hand size is increased by one |
 | Maria the Merchant | +2 QP, Gain two extra cargo slots. |
 | Umbra the Unstable | +1 QP, At the beginning of your turn, Draw a Quantum Event. Then, discard a Quantum event of your choice. |
+| Umbra the Unstable v2 | +1 QP, At the beginning of an encounter, shuffle both players Quantum Events together. Play one Quantum Event of your choice. Redistribute the QEs back to each player. |
 
 
 > 💣 Quantum components removed by Squarebottom the Sapper are placed back in the Quantum Depot and can be re-purchased.
@@ -86,12 +87,14 @@ Quantum event cards are drawn when a quantum event is triggered by playing 6 eng
 | Quantum Boost | Add 3 to your die roll during an encounter. |
 | Shuttlecraft | Move one pirate from one pirate base to another. The destination base must have space to accommodate the pirate. |
 | Alchemist | Convert up to two of your resources of one type to another resource type. The resources must be of the same type. |
-| Tractor Beam | Gain two extra cargo slots. Play next to your spaceship card. |
+| ~~Tractor Beam~~ | ~~Gain two extra cargo slots. Play next to your spaceship card.~~ |
 | **Below are some newly developed quantum events** |  |
 | Homing Warp | Teleport to a planet occupied by an opponent's ship. If the planet is in Entanglion, an encounter occurs. |
 | Abundance | You gain one resource of your choice. |
 | Disruptive Sabotage | Play in response to your opponent playing a Quantum Event. Negate the effect of opponent's Quantum event |
-| Rival Transmogrification | Swap places of your ships with your opponent's ships. (Needs some balancing / timing restriction) |
+| Rival Transmogrification | Swap places of your ships with your opponent's ships. Play before this round's navigation phase begins.|
+| Hyperdrive Initiation | Play before a round begins. You are the first player for the next round. |
+| Time Diliation | The end game round limit is increased by one. |
 
 Quantum events in the base Entanglion game are not used in the Space Pirate expansion unless they are listed in the table above.
 
