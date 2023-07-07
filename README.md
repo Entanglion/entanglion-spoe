@@ -125,13 +125,13 @@ A round consists of four phases: navigate, resolve, action, and cleanup.
 ### Navigate phase
 Beginning with the first player, players alternate taking turns placing engine cards in their own engine control section on the board. Each turn, a player may play a card face down or pass their turn. Players can place up to six engine cards. Players immediately draw a replacement card after placing a card. Once an engine card is placed facedown, players cannot look at the facedown engine card until it is flipped face up in the Resolve phase. Once a player passes their turn, they may not place any additional engine cards during this round.
 
+> 🚀 To simplify navigation, the orientation of the engine cards does not matter; engine cards are not played on a specific ship in your fleet. Your ships may traverse any valid path for a given engine card, independent of whether it is colored red or blue.
+
 > 🔀 Remember to shuffle the engine card discard pile when the engine card stack is empty!
 
 If a player places six engine cards in their engine control, they have triggered a quantum event. Draw a quantum event card and keep it in your hand immediately after placing the sixth engine card.
 
-> 🚀 For purposes of navigation, the Yearling (yellow ship) follows blue paths on the game board and the Grenada (green ship) follows red paths on the board.
-
-> 🃏 Your fleet's PROBE card must be played face up.
+> 🃏 Your fleet's PROBE card must always be played face up.
 
 ### Resolve phase
 After both players have passed during the navigate phase, players begin resolving their navigation actions. Beginning with the first player, players alternatively reveal the next hidden engine card and perform the appropriate navigation action with their spaceships.
