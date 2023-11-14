@@ -48,53 +48,52 @@ Quantum components are re-used from the base Entanglion game. They increase the 
 | Quantum Programming | +4 QP | 2 Copper + 2 He3 + 1 Niodium |
 | Quantum Error Correction | +5 QP | 1 Copper + 1 He3 + 4 Niodium |
 
-### Pirate cards (6)
+### Pirate cards (12)
 Pirates are obtained from pirate outposts and provide effects during the course of play. Pirates cost any 3 resources to hire.
 
 | Pirate | Effect |
 | --- | --- |
-| Uppity the Mercinary | +1 QP, You may re-roll the Entanglion die one additional time during an encounter |
-| Strangiatto the Scientist | +1 QP, Quantum components may be purchased with one fewer resource (your choice) |
-| Charming the Engineer | +1 QP, You may re-roll the Entanglion die one additional time during an encounter |
-| Tiptop the Thief | +2 QP, Steal 1 additional resource of your choice when you win an encounter |
-| ~~Squarebottom the Sapper~~ | +1 QP, Return 1 quantum component of your choice from your opponent's ship to the Quantum Depot when you win an encounter~~ |
-| Downdown the Miner | +2 QP, Receive one extra resource from the current planet whenever discovering or mining |
-| **Below are some newly developed space pirates** | | |
-| Nova the Navigator | +1 QP, Draw an engine card. Your max engine card hand size is increased by one |
-| Maria the Merchant | +2 QP, Gain two extra cargo slots. |
-| Umbra the Unstable v1 | +1 QP, At the beginning of the round, draw a Quantum Event. Then, discard a Quantum Event of your choice. |
-| Umbra the Unstable v2 | +1 QP, At the beginning of an encounter, shuffle both players' Quantum Events together. Play one Quantum Event of your choice. Redistribute the QEs back to each player. |
+| Uppity the Mercinary | You may re-roll the Entanglion die one additional time during an encounter |
+| Strangiatto the Scientist | Quantum components may be purchased with one fewer resource (you choice) |
+| Charming the Engineer | Once during your Navigate phase, you may discard one or more engine cards then redraw to fill your hand |
+| Tiptop the Thief | Steal 1 additional resource of your choice when you win an encounter |
+| Downdown the Miner | Receive one extra resource from the current planet whenever discovering or mining |
+| Nova the Navigator | Draw an engine card. Your max engine card hand size is increased by one |
+| Maria the Merchant | Gain two extra cargo slots |
+| Umbra the Unstable | At the beginning of the round, draw a Quantum Event. Then, discard a Quantum event of your choice. |
+| Neva the Negotiator | At the end of each round, you may lose 1 QP and gain two resources of your choice |
+| Compadre the Companion | At the end of each round, gain QP equal to half the number of pirates you own, rounded down |
+| Clarence the Clairvoyant | At the beginning of each resolve phase, select a facedown navigation tile an opponent controls. Guess its value. Flip it. If you guessed correctly and it was the first engine tile in engine control, gain 1 QE. If you guessed correctly and it was not the first engine tile in engine control, gain 1 QP. |
+| Harry the Haggler | At the Quantum Depot, you may trade any 2 resources for 1 resource of your choice When you lose an encounter, you choose the resource to give your opponent |
 
 
-> 💣 Quantum components removed by Squarebottom the Sapper are placed back in the Quantum Depot and can be re-purchased.
-
-### Quantum event cards (30)
+### Quantum event cards (39)
 Quantum event cards are drawn when a quantum event is triggered by playing 6 engine cards in engine control. Entanglion: Space Pirates introduces a new set of quantum events. These cards are held in your hand and played at any point during the game, unless otherwise specified. Players may hold a maximum of 3 quantum event cards in their hand.
 
 | Event | Effect |
 | --- | --- |
 | Wormhole | Teleport to a random planet in Centarious. Roll the Centarious die and move your ships to the indicated planet. |
 | Quantum Noise | Teleport to a random planet in Entanglion. Roll the Entanglion die, and proceeding in clockwise order from OMEGA ZERO, count the indicated number of planets. Move your ships to the selected planet. |
-| Quantum Interference | Change one engine card to another of your choosing. (The chosen engine card does not have to be in your hand) Play immediately after the engine card is revealed. Cannot be played on a PROBE. |
-| Prosperity | Receive +2 resources from the current planet _or_ Hire one pirate at the current outpost for 1 resource. |
-| Defection! | Steal one of your opponent's pirates (your choice). Your fleet must have space to accommodate the new pirate. |
+| Quantum Interference | Change one engine card in your engine control to another of your choosing. (The chosen engine card does not have to be in your hand) Play immediately after the engine card is revealed. Cannot be played on a PROBE. |
+| Prosperity | Receive +2 resources that the current planet produces _or_ Hire one pirate at the current outpost for 1 resource. |
+| Defection! | Only use if you currently have two resources. Give your opponent two resource of their choice. Steal one of your opponent's pirates (your choice). Your ship must have space to accommodate the new pirate. |
 | ~~Color Blindness~~ | ~~On this turn, your opponent can only navigate with one color spaceship (your choice). Play at the beginning of the first player’s Navigate phase.~~ |
-| The Mechanic | Draw 3 engine cards and immediately use up to two (outside of engine control). Discard the engine cards when finished. Play at the beginning of your Navigate phase. |
+| Strategic Navigation | Draw 3 engine cards and immediately use up to two (outside of engine control). Discard the engine cards when finished. Play at the beginning of your Navigate phase. |
 | Quantum Teleporter | Steal one quantum event card from your opponent at random. |
 | Hard Bargain | Buy a quantum component at one fewer resource of your choice. |
-| Black Hole | Discard your hand and draw three new engine cards. |
+| Black Hole | Discard your engine card hand and draw three new engine cards. |
 | Spy | On this turn, your opponent must play their engine cards face up. Play at the beginning of the first player’s Navigate phase. |
 | Quantum Boost | Add 3 to your die roll during an encounter. |
 | Shuttlecraft | Move one pirate from one pirate base to another. The destination base must have space to accommodate the pirate. |
 | Alchemist | Convert up to two of your resources of one type to another resource type. The resources must be of the same type. |
 | ~~Tractor Beam~~ | ~~Gain two extra cargo slots. Play next to your spaceship card.~~ |
-| **Below are some newly developed quantum events** |  |
 | Homing Warp | Teleport to a planet occupied by an opponent's ship. If the planet is in Entanglion, an encounter occurs. |
 | Abundance | You gain one resource of your choice. |
 | Disruptive Sabotage | Play in response to your opponent playing a Quantum Event. Negate the effect of opponent's Quantum event |
-| Rival Transmogrification | Swap places of your ships with your opponent's ships. Play before this round's navigation phase begins.|
+| Rival Transmogrification | Swap locations of your ships with your opponent's ships. Play before the navigation phase begins.|
 | Hyperdrive Initiation | Play before a round begins. You are the first player for the next round. |
-| Time Diliation | The end game round limit is increased by one. |
+| Time Diliation | The end game round limit is increased by one. Remove this card from the quantum event deck. (One Copy) |
+| Quantume Tutor | Look at the top 3 cards of Quantum event deck for any two cards. Add one of those cards to your hand, give your opponent the other |
 
 Quantum events in the base Entanglion game are not used in the Space Pirate expansion unless they are listed in the table above.
 
@@ -199,19 +198,12 @@ A maximum of four pirates may be recruited to your fleet.
 The Detection Rate mechanic is not utilized in the Space Pirates expansion. Ships may freely enter and exit Entanglion without fear of Orbital defenses.
 
 ## Game End
-The game ends immediately when any of the following conditions occur.
+There are 6 rounds in a standard game of Entanglion. Usually, the game ends at the end of the 6th round. When the round ends, a final quantum score consists of:
 
-- One player achieves a quantum power of 12 (or more)
-- All quantum components have been purchased
-- All pirates have been hired
-- The quantum event stack is depleated
+- The Quantum Point values of each quantum component a player owns
+- Each pirate is worth 1 quantum point intrinsically
 
-When the game ends, the player whose fleet has the higher quantum power is the winner. In case players' fleets have the same quantum power, the game ends in a draw.
-
-Development Notes:
-*CNOT rules clarification - related to Centarious
-*Reminder text for SWAP when outside of Entanglion
-*Potential Name changes to the Turn actions?
+When the game ends, the player whose fleet has the higher quantum power is the winner. In case players' fleets have the same quantum power, the winner is the player with more resources.
 
 # Contributors
 Entanglion: Space Pirates was designed by Justin D Weisz, Maryam Ashoori, Kent Fung, Patrick Watson, Prabhat M Reddy, and Rachel Ostrand.
