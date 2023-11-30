@@ -3,8 +3,6 @@ Mastered Entanglion and looking for more of a challenge? You've come to the righ
 
 Entanglion: Space Pirates introduces a number of new game elements to make Entanglion more challenging and more rewarding.
 
-> ⚠️ Entanglion: Space Pirates is a work in progress and we are looking for feedback on mechanics, game length, balance, and anything else that could make this expansion more enjoyable. Please open an [issue](../../issues) and leave us your feedback!
-
 ## Overview
 You are the captain of an intergalactic mining business, but you have always dreamed of what life would be like as a space pirate, wandering the universe in search of the best loot. The good news is that the Space Pirates of Entanglion (SPOE) are seeking a new captain to join their ranks! The bad news is that membership into this elite pirate group requires achieving a certain level of technological sophistication -- one might say, _quantum_ sophistication -- and they're going to take the first qualified applicant.
 
@@ -13,25 +11,23 @@ Do you have what it takes to outsmart, outmaneuver, and outwit your competition 
 ## Expansion Contents
 🚀 **[Download Entanglion: Space Pirates game assets](../../releases)**
 
-> 🤔 Want to buy a boxed copy? We will publish a copy of Entanglion: Space Pirates at [The Game Crafter](http://thegamecrafter.com), once we are satisfied that the rules are balanced. It will require a copy of the base [Entanglion](https://www.thegamecrafter.com/games/entanglion1) game.
+> 🤔 Want to buy a boxed copy? We will publish a copy of Entanglion: Space Pirates at [The Game Crafter](http://thegamecrafter.com) soon. In the meantime, please check out the base [Entanglion](https://www.thegamecrafter.com/games/entanglion1) game.
 
-### Game board
-The new Entanglion: Space Pirates gameboard builds on top of the existing Entanglion game board, but adds a few new features:
+### Game board (1)
+The Entanglion: Space Pirates gameboard builds on top of the existing Entanglion game board, adding new features:
 
-- New ships! The Yearling and the Grenada are competitors to the Rubicon and Mercurial. The game board adds a new engine control section for this new fleet.
-- Competition! Two players compete against each other for quantum supremacy 
-- Pirates! Pirates can help you on your journey, for a price.
-- New instructions on turn order and actions
-- New Quantum Depot structure for forging quantum components
-- Updated Quantum events
+- 🏆 New ships! Yearling and Grenada compete with Rubicon and Mercurial in the battle for quantum supremacy. The game board adds an additional engine control section for this new fleet.
+- 🏴‍☠️ Pirates! Pirates can help you on your journey, for a price.
+- ✍️ New instructions on turn order and actions.
+- 🏪 New Quantum Depot for forging quantum components.
 
 ### Spaceship boards (2)
-The spaceship boards are used to manage your fleet of ships: Rubicon/Mercurial and Yearling/Grenada. They contain slots for cargo and quantum components, and a quantum power tracking meter. These boards are used in place of the stock spaceship boards from Entanglion.
+The spaceship boards are used to manage your fleet of ships: Rubicon/Mercurial and Yearling/Grenada. They contain slots for cargo, quantum components, and quantum power. These boards are used in place of the stock spaceship boards from Entanglion.
 
 ### Planet tokens (8)
 Planets in Entanglion may have resource mines, pirate outposts, or nothing at all! There are three kinds of resources that can be mined -- Copper, Helium-3 (He3), and Niodium (Nb) -- and are they used to purchase quantum components.
 
-### Quantum Depot token
+### Quantum Depot token (1)
 The Quantum Depot is where quantum components are created from raw materials. It is located in the Superious galaxy.
 
 ### Quantum components (8)
@@ -54,18 +50,17 @@ Pirates are obtained from pirate outposts and provide effects during the course 
 | Pirate | Effect |
 | --- | --- |
 | Uppity the Mercinary | You may re-roll the Entanglion die one additional time during an encounter |
-| Strangiatto the Scientist | Quantum components may be purchased with one fewer resource (you choice) |
-| Charming the Engineer | Once during your Navigate phase, you may discard one or more engine cards then redraw to fill your hand |
+| Strangiatto the Scientist | Quantum components may be purchased with one fewer resource of your choice |
+| Charming the Engineer | Once during your Navigate phase, you may discard and redraw one or more engine cards |
 | Tiptop the Thief | Steal 1 additional resource of your choice when you win an encounter |
-| Downdown the Miner | Receive one extra resource from the current planet whenever discovering or mining |
-| Nova the Navigator | Draw an engine card. Your max engine card hand size is increased by one |
+| Downdown the Miner | Receive one extra resource produced by the current planet when discovering or mining |
+| Nova the Navigator | You may hold one additional engine card in your hand. Upon hiring, draw an engine card. |
 | Maria the Merchant | Gain two extra cargo slots |
-| Umbra the Unstable | At the beginning of the round, draw a Quantum Event. Then, discard a Quantum event of your choice. |
-| Neva the Negotiator | At the end of each round, you may lose 1 QP and gain two resources of your choice |
-| Compadre the Companion | At the end of each round, gain QP equal to half the number of pirates you own, rounded down |
-| Clarence the Clairvoyant | At the beginning of each resolve phase, select a facedown navigation tile an opponent controls. Guess its value. Flip it. If you guessed correctly and it was the first engine tile in engine control, gain 1 QE. If you guessed correctly and it was not the first engine tile in engine control, gain 1 QP. |
-| Harry the Haggler | At the Quantum Depot, you may trade any 2 resources for 1 resource of your choice When you lose an encounter, you choose the resource to give your opponent |
-
+| Umbra the Unstable | At the beginning of each round, draw a Quantum Event. Then, discard a Quantum Event of your choice. |
+| Neva the Negotiator | At the end of each round, you may lose 1 QP to gain two resources of your choice. |
+| Compadre the Companion | At the end of each round, gain QP equal to half the number of pirates you've hired, rounded down. |
+| Clarence the Clairvoyant | At the beginning of each Resolve phase, select one face down engine card of your opponent. Guess its value, then flip it over. If your guess was correct, receive a reward: First engine card = Draw 1 Quantum Event. Any subsequent card = Gain 1 QP. |
+| Harry the Haggler | At the Quantum Depot, you may trade any 2 resources for 1 resource of your choice. When you lose an encounter, you choose the resource to give your opponent. |
 
 ### Quantum event cards (39)
 Quantum event cards are drawn when a quantum event is triggered by playing 6 engine cards in engine control. Entanglion: Space Pirates introduces a new set of quantum events. These cards are held in your hand and played at any point during the game, unless otherwise specified. Players may hold a maximum of 3 quantum event cards in their hand.
@@ -74,30 +69,28 @@ Quantum event cards are drawn when a quantum event is triggered by playing 6 eng
 | --- | --- |
 | Wormhole | Teleport to a random planet in Centarious. Roll the Centarious die and move your ships to the indicated planet. |
 | Quantum Noise | Teleport to a random planet in Entanglion. Roll the Entanglion die, and proceeding in clockwise order from OMEGA ZERO, count the indicated number of planets. Move your ships to the selected planet. |
-| Quantum Interference | Change one engine card in your engine control to another of your choosing. (The chosen engine card does not have to be in your hand) Play immediately after the engine card is revealed. Cannot be played on a PROBE. |
-| Prosperity | Receive +2 resources that the current planet produces _or_ Hire one pirate at the current outpost for 1 resource. |
-| Defection! | Only use if you currently have two resources. Give your opponent two resource of their choice. Steal one of your opponent's pirates (your choice). Your ship must have space to accommodate the new pirate. |
-| ~~Color Blindness~~ | ~~On this turn, your opponent can only navigate with one color spaceship (your choice). Play at the beginning of the first player’s Navigate phase.~~ |
-| Strategic Navigation | Draw 3 engine cards and immediately use up to two (outside of engine control). Discard the engine cards when finished. Play at the beginning of your Navigate phase. |
-| Quantum Teleporter | Steal one quantum event card from your opponent at random. |
-| Hard Bargain | Buy a quantum component at one fewer resource of your choice. |
+| Quantum Interference | The revealed engine card is resolved as any other engine card type of your choosing. Play immediately after revealing an engine card during Navigate. Can only be played on your own engine card. Cannot be played on a PROBE. |
+| Prosperity | Receive +2 resources that the current planet produces _or_ Hire 1 pirate at the current outpost for 1 resource. |
+| Defection! | Steal one of your opponent's pirates of your choosing. Give your opponent 2 resources of their choosing. Can only be played if your ship has space to accommodate the new pirate. Can only be played when you possess 2 or more resources. |
+| Strategic Navigation | Draw 3 engine cards and immediately use up to 2. Discard the engine cards when finished. Play at the beginning of your Navigate phase. |
+| Quantum Teleporter | Steal 1 quantum event card from your opponent, chosen at random. |
+| Hard Bargain | Purchase a quantum component at one fewer resource of your choosing. |
 | Black Hole | Discard your engine card hand and draw three new engine cards. |
 | Spy | On this turn, your opponent must play their engine cards face up. Play at the beginning of the first player’s Navigate phase. |
 | Quantum Boost | Add 3 to your die roll during an encounter. |
-| Shuttlecraft | Move one pirate from one pirate base to another. The destination base must have space to accommodate the pirate. |
-| Alchemist | Convert up to two of your resources of one type to another resource type. The resources must be of the same type. |
-| ~~Tractor Beam~~ | ~~Gain two extra cargo slots. Play next to your spaceship card.~~ |
+| Shuttlecraft | Move 1 pirate from one pirate outpost to another. The destination outpost must have space to accommodate the pirate. |
+| Alchemist | Convert up to 2 of your resources of the same type to another resource type. |
 | Homing Warp | Teleport to a planet occupied by an opponent's ship. If the planet is in Entanglion, an encounter occurs. |
-| Abundance | You gain one resource of your choice. |
-| Disruptive Sabotage | Play in response to your opponent playing a Quantum Event. Negate the effect of opponent's Quantum event |
-| Rival Transmogrification | Swap locations of your ships with your opponent's ships. Play before the navigation phase begins.|
+| Abundance | Gain 1 resource of your choice. |
+| Disruptive Sabotage | Play in response to your opponent playing a Quantum Event. Negate the effect of opponent's Quantum event. |
+| Rival Transmogrification | Swap locations of your ships with your opponent's ships. Play before the beginning of Navigation. |
 | Hyperdrive Initiation | Play before a round begins. You are the first player for the next round. |
-| Time Diliation | The end game round limit is increased by one. Remove this card from the quantum event deck. (One Copy) |
-| Quantume Tutor | Look at the top 3 cards of Quantum event deck for any two cards. Add one of those cards to your hand, give your opponent the other |
+| Time Diliation | The end game round limit is increased by 1. After playing, remove this card from the game. |
+| Quantume Tutor | Draw 3 Quantum Event cards. Keep one, give one to your opponent, and discard one. |
 
-Quantum events in the base Entanglion game are not used in the Space Pirate expansion unless they are listed in the table above.
+There are two copies of each Quantum event card in the game, except for Time Dilation which only has one copy.
 
-> 🏠 House rule: for a more lively game, quantum event cards may also be drawn when exiting Entanglion, as in the base rule set.
+Quantum events in the base Entanglion game are not used in the Space Pirate expansion.
 
 ### First player token (1)
 This token is used to determine which player takes the first action during each round. Players alternate taking the first action after each round.
