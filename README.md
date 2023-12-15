@@ -69,26 +69,26 @@ Quantum event cards are drawn when a quantum event is triggered by playing 6 eng
 | --- | --- |
 | Wormhole | Teleport to a random planet in Centarious. Roll the Centarious die and move your ships to the indicated planet. |
 | Quantum Noise | Teleport to a random planet in Entanglion. Roll the Entanglion die, and proceeding in clockwise order from OMEGA ZERO, count the indicated number of planets. Move your ships to the selected planet. |
-| Quantum Interference | The revealed engine card is resolved as any other engine card type of your choosing. Play immediately after revealing an engine card during Navigate. Can only be played on your own engine card. Cannot be played on a PROBE. |
+| Quantum Interference | The revealed engine card is resolved as any other engine card type of your choosing. Play immediately after revealing an engine card during your Navigate phase. Can only be played on your own engine card. Cannot be played on a PROBE. |
 | Prosperity | Receive +2 resources that the current planet produces _or_ Hire 1 pirate at the current outpost for 1 resource. |
-| Defection! | Steal one of your opponent's pirates of your choosing. Give your opponent 2 resources of their choosing. Can only be played if your ship has space to accommodate the new pirate. Can only be played when you possess 2 or more resources. |
+| Defection! | Steal one of your opponent's pirates of your choosing. Give your opponent 2 resources of their choice. Can only be played if your ship has space to accommodate the new pirate. Can only be played when you have 2 or more resources. |
 | Strategic Navigation | Draw 3 engine cards and immediately use up to 2. Discard the engine cards when finished. Play at the beginning of your Navigate phase. |
 | Quantum Teleporter | Steal 1 quantum event card from your opponent, chosen at random. |
-| Hard Bargain | Purchase a quantum component at one fewer resource of your choosing. |
+| Hard Bargain | Purchase a quantum component at one fewer resource of your choice. |
 | Black Hole | Discard your engine card hand and draw three new engine cards. |
-| Spy | On this turn, your opponent must play their engine cards face up. Play at the beginning of the first player’s Navigate phase. |
+| Spy | On this turn, your opponent must play their engine cards face up. Play at the beginning of your opponent's Navigate phase. |
 | Quantum Boost | Add 3 to your die roll during an encounter. |
 | Shuttlecraft | Move 1 pirate from one pirate outpost to another. The destination outpost must have space to accommodate the pirate. |
 | Alchemist | Convert up to 2 of your resources of the same type to another resource type. |
 | Homing Warp | Teleport to a planet occupied by an opponent's ship. If the planet is in Entanglion, an encounter occurs. |
 | Abundance | Gain 1 resource of your choice. |
-| Disruptive Sabotage | Play in response to your opponent playing a Quantum Event. Negate the effect of opponent's Quantum event. |
-| Rival Transmogrification | Swap locations of your ships with your opponent's ships. Play before the beginning of Navigation. |
+| Disruptive Sabotage | Play in response to your opponent playing a quantum event. Negate the effect of opponent's quantum event. |
+| Rival Transmogrification | Swap locations of your ships with your opponent's ships. Play before the beginning of your Navigation phase. |
 | Hyperdrive Initiation | Play before a round begins. You are the first player for the next round. |
 | Time Diliation | The end game round limit is increased by 1. After playing, remove this card from the game. |
-| Quantume Tutor | Draw 3 Quantum Event cards. Keep one, give one to your opponent, and discard one. |
+| Quantume Tutor | Draw 3 quantum qvent cards. Keep one, give one one to your opponent (your choice), and discard one. |
 
-There are two copies of each Quantum event card in the game, except for Time Dilation which only has one copy.
+There are two copies of each quantum event card in the game, except for Time Dilation, which does not have a copy.
 
 Quantum events in the base Entanglion game are not used in the Space Pirate expansion.
 
@@ -112,7 +112,7 @@ Preparation of Entanglion: Space Pirates is as follows.
 9. **Draw initial Quantum Event**. Each player draws a Quantum Event.
 
 ## Round Overview
-A round consists of four phases: navigate, resolve, action, and cleanup.
+A round consists of four phases: Navigate, Resolve, Action, and Cleanup.
 
 ### Navigate phase
 Beginning with the first player, players alternate taking turns placing engine cards in their own engine control section on the board. Each turn, a player may play a card face down or pass their turn. Players can place up to six engine cards. Players immediately draw a replacement card after placing a card. Once an engine card is placed facedown, players cannot look at the facedown engine card until it is flipped face up in the Resolve phase. Once a player passes their turn, they may not place any additional engine cards during this round.
@@ -126,7 +126,7 @@ If a player places six engine cards in their engine control, they have triggered
 > 🃏 Your fleet's PROBE card must always be played face up.
 
 ### Resolve phase
-After both players have passed during the navigate phase, players begin resolving their navigation actions. Beginning with the first player, players alternatively reveal the next hidden engine card and perform the appropriate navigation action with their spaceships.
+After both players have passed during the Navigate phase, players begin resolving their navigation actions. Beginning with the first player, players alternatively reveal the next hidden engine card and perform the appropriate navigation action with their spaceships.
 
 If a player's navigation action cannot be legally resolved, that player's ship does not move. That player must discard their remaining engine cards in their navigation control. That player's turn ends.
 
@@ -143,7 +143,6 @@ Immediately after a player resolves their last navigation action, they proceed t
 - **Mine**. At a planet with resources, mine those resources by moving some or all of any resource tokens present on the planet to the cargo holds of your fleet. 
 - **Hire pirate**. At a pirate outpost, hire a pirate at a cost of any three resources.
 - **Buy component**. At the Quantum Depot, discard the specified resources to purchase a quantum component. Players may purchase as many components as they are able in one action.
-- **Jettison cargo**. Discard any amount of cargo of any type on the current planet.
 
 > 🚀 Due to the effects of quantum teleportation, players do not need to worry which of their ships travels to the Quantum Depot. All cargo is instantly transferred to the ship docked at the Depot.
 
@@ -180,7 +179,7 @@ There is a limit of 3 engine cards in your hand.
 > 🃏 Engine cards should be kept private from your opponent.
 
 ### Cargo capacity & jettisoned cargo
-Ships have finite cargo capacities. If your cargo holds are full, you cannot bring new cargo on board. You may jettison cargo at any time during your action phase. Jettisoned cargo orbits the planet at which it was jettisoned, enabling other players to travel there and pick it up. Cargo may be jettisoned on any planet in the quantum universe, not just in Entanglion. There is no limit to how much cargo can be placed on a single planet, although a planet containing three (or more) of the resource it produces will not be replenished.
+Ships have finite cargo capacities. If your cargo holds are full, you cannot bring new cargo on board. You may jettison cargo at any time. Jettisoned cargo orbits the planet at which it was jettisoned, enabling other players to travel there and pick it up. Cargo may be jettisoned on any planet in the quantum universe, not just in Entanglion. There is no limit to how much cargo can be placed on a single planet, although a planet containing three (or more) of the resource it produces will not be replenished.
 
 ### Pirate capacity
 A maximum of four pirates may be recruited to your fleet.
