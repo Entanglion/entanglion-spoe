@@ -135,7 +135,7 @@ During the resolve phase, one or both of a player's spaceships may occupy the sa
 If a player reveals a PROBE card, they may immediately make an action as described below.
 
 ### Action phase
-Immediately after a player resolves their last navigation action, they proceed to the action phrase. Players may perform any of the following actions, depending on the planet(s) at which their fleet is located:
+Immediately after a player resolves their last navigation action, they proceed to the Action phrase. Players may perform any of the following actions, depending on the planet(s) at which their fleet is located:
 
 - **Discover planet**. Undiscovered planets in the Entanglion system are those with their planet tokens face down. Flip the planet token to discover what lies on the planet.
     - ☠️ Pirate outpost: Flip all pirates at the designated outpost face up. Recruit one pirate of your choice from the outpost into your fleet.
