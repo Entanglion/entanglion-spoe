@@ -105,7 +105,7 @@ Preparation of Entanglion: Space Pirates is as follows.
 2. **Planet tokens**. Shuffle the planet tokens and place one face down on each planet in the Entanglion system.
 3. **Quantum Depot**. Roll the Centarious die and place the Quantum Depot on the indicated planet in Superious (0 -> Minus, 1 -> Plus).
 4. **Engine cards**. Distribute the colored PROBE cards to each player and place the remaining (black) PROBE card with the rest of the engine cards. Shuffle and place the engine cards face down on the engine card stack. Deal three engine cards to each player.
-5. **Pirate cards**. Shuffle the pirate cards and place them face down in the two pirate outposts.
+5. **Pirate cards**. Shuffle the pirate card deck and deal out six cards face up to the two pirate outposts.
 6. **Quantum event cards**. Shuffle the quantum event cards and place them face down on the quantum event stack.
 7. **Determine first player**. Determine the first player by rolling the Entanglion die. The player with the highest roll goes first and takes possession of the first player token. Re-roll in case of a tie 
 8. **Spaceship placement**. The first player may choose which planet their fleet begins on in Centarious. The other player's fleet begins on the other planet in Centarious. Both spaceships in a fleet begin on the same planet.
@@ -138,7 +138,7 @@ If a player reveals a PROBE card, they may immediately make an action as describ
 Immediately after a player resolves their last navigation action, they proceed to the Action phrase. Players may perform any of the following actions, depending on the planet(s) at which their fleet is located:
 
 - **Discover planet**. Undiscovered planets in the Entanglion system are those with their planet tokens face down. Flip the planet token to discover what lies on the planet.
-    - ☠️ Pirate outpost: Flip all pirates at the designated outpost face up. Recruit one pirate of your choice from the outpost into your fleet.
+    - ☠️ Pirate outpost: Recruit one pirate of your choice from the outpost into your fleet.
     - ⛏️ Mine: Receive two of the discovered resource.
 - **Mine**. At a planet with resources, mine those resources by moving some or all of any resource tokens present on the planet to the cargo holds of your fleet. 
 - **Hire pirate**. At a pirate outpost, hire a pirate at a cost of any three resources.
@@ -200,7 +200,7 @@ When the game ends, the player whose fleet has the higher quantum power is the w
 # Contributors
 Entanglion: Space Pirates was designed by Justin D Weisz, Maryam Ashoori, Kent Fung, Patrick Watson, Prabhat M Reddy, and Rachel Ostrand.
 
-Additional playtesting, development, and publishing by Jack Schaefer and Chris Eisbach
+Additional playtesting, development, and publishing by Jack Schaefer and Chris Eisbach.
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
