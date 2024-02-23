@@ -62,7 +62,7 @@ Pirates are obtained from pirate outposts and provide effects during the course 
 | Clarence the Clairvoyant | At the beginning of each Resolve phase, select one face down engine card of your opponent. Guess its value, then flip it over. If your guess was correct, receive a reward: First engine card = Draw 1 Quantum Event. Any subsequent card = Gain 1 QP. |
 | Harry the Haggler | At the Quantum Depot, you may trade any 2 resources for 1 resource of your choice. When you lose an encounter, you choose the resource to give your opponent. |
 
-### Quantum event cards (39)
+### Quantum event cards (37)
 Quantum event cards are drawn when a quantum event is triggered by playing 6 engine cards in engine control. Entanglion: Space Pirates introduces a new set of quantum events. These cards are held in your hand and played at any point during the game, unless otherwise specified. Players may hold a maximum of 3 quantum event cards in their hand.
 
 | Event | Effect |
@@ -78,7 +78,6 @@ Quantum event cards are drawn when a quantum event is triggered by playing 6 eng
 | Black Hole | Discard your engine card hand and draw three new engine cards. |
 | Spy | On this turn, your opponent must play their engine cards face up. Play at the beginning of your opponent's Navigate phase. |
 | Quantum Boost | Add 3 to your die roll during an encounter. |
-| Shuttlecraft | Move 1 pirate from one pirate outpost to another. The destination outpost must have space to accommodate the pirate. |
 | Alchemist | Convert up to 2 of your resources of the same type to another resource type. |
 | Homing Warp | Teleport to a planet occupied by an opponent's ship. If the planet is in Entanglion, an encounter occurs. |
 | Abundance | Gain 1 resource of your choice. |
@@ -86,7 +85,7 @@ Quantum event cards are drawn when a quantum event is triggered by playing 6 eng
 | Rival Transmogrification | Swap locations of your ships with your opponent's ships. Play before the beginning of your Navigation phase. |
 | Hyperdrive Initiation | Play before a round begins. You are the first player for the next round. |
 | Time Diliation | The end game round limit is increased by 1. After playing, remove this card from the game. |
-| Quantume Tutor | Draw 3 quantum qvent cards. Keep one, give one one to your opponent (your choice), and discard one. |
+| Quantum Tutor | Draw 3 quantum qvent cards. Keep one, give one one to your opponent (your choice), and discard one. |
 
 There are two copies of each quantum event card in the game, except for Time Dilation, which does not have a copy.
 
