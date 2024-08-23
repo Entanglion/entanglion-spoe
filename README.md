@@ -62,32 +62,30 @@ Pirates are obtained from pirate outposts and provide effects during the course 
 | Clarence the Clairvoyant | At the beginning of each Resolve phase, select one face down engine card of your opponent. Guess its value, then flip it over. If your guess was correct, receive a reward: First engine card = Draw 1 Quantum Event. Any subsequent card = Gain 1 QP. |
 | Harry the Haggler | At the Quantum Depot, you may trade any 2 resources for 1 resource of your choice. When you lose an encounter, you choose the resource to give your opponent. |
 
-### Quantum event cards (37)
+### Quantum event cards (19)
 Quantum event cards are drawn when a quantum event is triggered by playing 6 engine cards in engine control. Entanglion: Space Pirates introduces a new set of quantum events. These cards are held in your hand and played at any point during the game, unless otherwise specified. Players may hold a maximum of 3 quantum event cards in their hand.
 
 | Event | Effect |
 | --- | --- |
-| Wormhole | Teleport to a random planet in Centarious. Roll the Centarious die and move your ships to the indicated planet. |
-| Quantum Noise | Teleport to a random planet in Entanglion. Roll the Entanglion die, and proceeding in clockwise order from OMEGA ZERO, count the indicated number of planets. Move your ships to the selected planet. |
+| Wormhole | Teleport to a random planet in Centarious. Roll the Centarious die and move your fleet to the indicated planet. |
+| Quantum Noise | Teleport to a random planet in Entanglion. Roll the Entanglion die, and proceeding in clockwise order from OMEGA ZERO, count the indicated number of planets. Move your fleet to the selected planet. |
 | Quantum Interference | The revealed engine card is resolved as any other engine card type of your choosing. Play immediately after revealing an engine card during your Navigate phase. Can only be played on your own engine card. Cannot be played on a PROBE. |
 | Prosperity | Receive +2 resources that the current planet produces _or_ Hire 1 pirate at the current outpost for 1 resource. |
-| Defection! | Steal one of your opponent's pirates of your choosing. Give your opponent 2 resources of their choice. Can only be played if your ship has space to accommodate the new pirate. Can only be played when you have 2 or more resources. |
-| Strategic Navigation | Draw 3 engine cards and immediately use up to 2. Discard the engine cards when finished. Play at the beginning of your Navigate phase. |
+| Defection! | Steal one of your opponent's pirates of your choosing. Give your opponent 2 resources of their choice. Can only be played if your fleet has space to accommodate the new pirate. Can only be played when you have 2 or more resources. |
+| Strategic Navigation | Draw 3 engine cards and immediately resolve up to 2 navigation actions. Discard the engine cards when finished. Play at the beginning of your Navigate phase. |
 | Quantum Teleporter | Steal 1 quantum event card from your opponent, chosen at random. |
 | Hard Bargain | Purchase a quantum component at one fewer resource of your choice. |
 | Black Hole | Discard your engine card hand and draw three new engine cards. |
 | Spy | On this turn, your opponent must play their engine cards face up. Play at the beginning of your opponent's Navigate phase. |
 | Quantum Boost | Add 3 to your die roll during an encounter. |
 | Alchemist | Convert up to 2 of your resources of the same type to another resource type. |
-| Homing Warp | Teleport to a planet occupied by an opponent's ship. If the planet is in Entanglion, an encounter occurs. |
+| Homing Warp | Teleport your fleet to a planet occupied by an opponent's ship. If the planet is in Entanglion, an encounter occurs. |
 | Abundance | Gain 1 resource of your choice. |
 | Disruptive Sabotage | Play in response to your opponent playing a quantum event. Negate the effect of opponent's quantum event. |
-| Rival Transmogrification | Swap locations of your ships with your opponent's ships. Play before the beginning of your Navigation phase. |
+| Rival Transmogrification | Swap locations of your fleet with your opponent's fleet. Play before the beginning of your Navigation phase. |
 | Hyperdrive Initiation | Play before a round begins. You are the first player for the next round. |
 | Time Diliation | The end game round limit is increased by 1. After playing, remove this card from the game. |
 | Quantum Tutor | Draw 3 quantum qvent cards. Keep one, give one one to your opponent (your choice), and discard one. |
-
-There are two copies of each quantum event card in the game, except for Time Dilation, which does not have a copy.
 
 Quantum events in the base Entanglion game are not used in the Space Pirate expansion.
 
